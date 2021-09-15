@@ -23,7 +23,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
-
+<br/>
 
 <a href="https://github.com/dyCodes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyCodes&theme=buefy&show_icons=true" />
@@ -38,7 +38,7 @@
 <a href="mailto:yusufdaudu51@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusufdaudu51@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [dyCodes](https://github.com/dyCodes)
+<!-- ⭐️ From [dyCodes](https://github.com/dyCodes) -->
 
 <!--
 **dyCodes/dycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
