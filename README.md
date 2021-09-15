@@ -27,7 +27,7 @@
 
 <a href="https://github.com/dyCodes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyCodes&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyCodes&theme=buefy&layout=compact" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyCodes&theme=buefy&layout=compact" /> -->
 </a>
 
 <br/>
@@ -41,13 +41,6 @@
 </p>
 
 ⭐️ From [dyCodes](https://github.com/dyCodes)
-
-
-
-
-
-
-
 
 <!--
 **dyCodes/dycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
