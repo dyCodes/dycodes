@@ -1,5 +1,6 @@
-<h2> Hey there! I'm Yusuf Daudu👋</h2>
-
+### Hi there 👋 I'm [Yusuf Daudu](https://github.com/dyCodes)
+> Web Developer
+<h2></h2> <!-- Line -->
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing awesome web apps.
