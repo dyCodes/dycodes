@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm [Yusuf Daudu](https://github.com/dyCodes)
-> Web Developer
+> Full stack Developer
 <h2></h2> <!-- Line -->
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing awesome web apps.
+- ❤️ &nbsp; Exploring new technologies and developing awesome web apps.
 - 🎓 &nbsp; Studying Computer Science at Lagos State University.
 - 💼 &nbsp; Available for remote job.
 - 🌱 &nbsp; Learning more about ReactJs and nodeJs.
