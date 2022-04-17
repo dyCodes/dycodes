@@ -22,12 +22,12 @@
 
 <a href="https://github.com/dyCodes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyCodes&theme=buefy&show_icons=true" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyCodes&theme=buefy&layout=compact" /> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyCodes&theme=buefy&layout=compact" />
 </a>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="left">
-<!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.yusufdaudu.tech/"><img alt="Website" src="https://img.shields.io/badge/Website-www.yusufdaudu.tech-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/dycodes/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Yusuf%20Daudu-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/dycodes/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dyCodes-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:yusufdaudu51@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-yusufdaudu51@gmail.com-blue?style=flat-square&logo=gmail"></a>
